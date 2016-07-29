@@ -1,1 +1,1 @@
-![отчет](https://github.com/olesyasidyaka/CordovaTeleprogram/phonegap.pdf)
+![отчет](https://github.com/olesyasidyaka/CordovaTeleprogram/blob/master/phonegap.pdf)
