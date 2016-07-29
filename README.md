@@ -1,1 +1,1 @@
-![phonegap.pdf](https://github.com/olesyasidyaka/CordovaTeleprogram/files/391394/phonegap.pdf)
+![phonegap.pdf](https://github.com/olesyasidyaka/CordovaTeleprogram/phonegap.pdf)
